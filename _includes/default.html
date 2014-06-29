@@ -50,8 +50,11 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
+			  <li><a href="/">Home</a><li>
 			  {% for page in site.pages | sort: 'title' %}
+			    {% if page.title != 'Welcome' %}
 			    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+			    {% endif %}
 			  {% endfor %}
 			</ul>
 		</div><!-- /.navbar-collapse -->
@@ -63,8 +66,11 @@
 			<i class="fa fa-bars"></i>
 		</button>
 		<ul class="dropdown-menu" role="menu">
-			{% for page in site.pages | sort: 'title' %}
-			<li><a href="{{ page.url }}"><i class="fa fa-folder"></i> {{ page.title }}</a></li>
+		  <li><a href="/">Home</a><li>
+		  {% for page in site.pages | sort: 'title' %}
+		    {% if page.title != 'Welcome' %}
+		    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+		    {% endif %}
 		  {% endfor %}
 		  <li class="divider"></li>
 		  <li><a href="#"><i class="fa fa-arrow-up"></i> Top of Page</a></li>
