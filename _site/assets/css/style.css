@@ -53,7 +53,8 @@ a.nav-link:hover { color: #777 }
 	font-family: "Courier New", Courier, monospace;
 	font-size: 11px;
 	margin: 0 auto;
-	margin-bottom: 10px;
+	margin-bottom: 35px;
+  text-align: center;
 }
 
 #contact-list li .fa,
@@ -95,7 +96,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	Xcolor: #e74c3c;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
