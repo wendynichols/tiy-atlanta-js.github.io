@@ -27,7 +27,7 @@ body{
 }
 
 .sidebar ul {
-  margin-left: 50px;
+  margin-left: -13px;
 }
 .sidebar ul li {
   list-style: none;
