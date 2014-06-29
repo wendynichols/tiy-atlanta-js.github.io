@@ -1,0 +1,24 @@
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}/">
+		<img src="{{ site.BASE_PATH }}/assets/images/logo.png" />
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+    </h3>
+</header>
+
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	{{ site.author.bio }}
+</div>
+{% endif %}
+
+<ul>
+  {% for page in site.pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
+<! -- sidebar.html end -->
