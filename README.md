@@ -1,7 +1,7 @@
 ## The Iron Yard
 ### Front End Engineering : Atlanta : June 2014
 
-This is our class website. It contains basic info about the course as well as I will keep it updated with resources as we come across it.
+This site contains basic info about the course and a list of resources that will come in handy.
 
 The developers involved in this are:
 
