@@ -5,4 +5,4 @@ This is our class website. It contains basic info about the course as well as I 
 
 The developers involved in this are:
 
-[Tim Whitacre](https://github.com/twhitacre) - Instructor - [Website](http://timw.co)
+* [Tim Whitacre](https://github.com/twhitacre) - Instructor - [Website](http://timw.co) - [Twitter](http://twitter.com/timwco)
