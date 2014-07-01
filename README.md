@@ -11,3 +11,4 @@ The developers involved in this are:
 * [Katlyn Gabor](https://github.com/katlyngabor) - Genius? - [Website](http://katlynwhitt.wordpress.com) - [Twitter](http://twitter.com/katlynwhitt)
 * [Jonathan Dickerson](https://github.com/locomotes) - the Fixer - "I solve problems" - (http://locomot.es) - [Twitter](https://twitter.com/locomotes)
 * [Terry Ross](https://github.com/TJRoss23) - Instructor - [Website](http://terryross.co) - [Twitter](http://twitter.com/tjross23)
+* [Thach Le](https://github.com/thachmle) - Ninja - [facebook](https://www.facebook.com/RightOnPhotographyy)
