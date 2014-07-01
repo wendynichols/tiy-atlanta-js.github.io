@@ -10,3 +10,4 @@ The developers involved in this are:
 * [Greeley Dawson](https://github.com/4sight) - Semi-Pro(fessional) - [Personal Blog](http://newnowwow.com) - [Soundcloud] (http://soundcloud.com/4-sight)
 * [Katlyn Gabor](https://github.com/katlyngabor) - Genius? - [Website](http://katlynwhitt.wordpress.com) - [Twitter](http://twitter.com/katlynwhitt)
 * [Jonathan Dickerson](https://github.com/locomotes) - the Fixer - "I solve problems" - (http://locomot.es) - [Twitter](https://twitter.com/locomotes)
+* [Terry Ross](https://github.com/TJRoss23) - Instructor - [Website](http://terryross.co) - [Twitter](http://twitter.com/tjross23)
