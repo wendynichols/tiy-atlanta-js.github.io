@@ -12,3 +12,4 @@ The developers involved in this are:
 * [Jonathan Dickerson](https://github.com/locomotes) - the Fixer - "I solve problems" - (http://locomot.es) - [Twitter](https://twitter.com/locomotes)
 * [Terry Ross](https://github.com/TJRoss23) - Instructor - [Website](http://terryross.co) - [Twitter](http://twitter.com/tjross23)
 * [Thach Le](https://github.com/thachmle) - Ninja - [facebook](https://www.facebook.com/RightOnPhotographyy)
+* [Taylor Smith](https://github.com/tsmit182) - Code Smith - [Website](http://frozen-ridge-3470.herokuapp.com) - [Twitter](http://frozen-ridge-3470.herokuapp.com)
