@@ -13,3 +13,5 @@ The developers involved in this are:
 * [Terry Ross](https://github.com/TJRoss23) - Instructor - [Website](http://terryross.co) - [Twitter](http://twitter.com/tjross23)
 * [Thach Le](https://github.com/thachmle) - Ninja - [facebook](https://www.facebook.com/RightOnPhotographyy)
 * [Taylor Smith](https://github.com/tsmit182) - Code Smith - [Website](http://frozen-ridge-3470.herokuapp.com) - [Twitter](http://frozen-ridge-3470.herokuapp.com)
+* [Michael Powell](https://github.com/powellmichael) - Coke Zero Fan - "I drink..Coke Zero" - (http://michaelpowell.info) - [Twitter](https://twitter.com/EatSleepRoR)
+* [Josh Daniels](http://rightbraindesigns.biz)- i dont have twitter!!!!!!!!
