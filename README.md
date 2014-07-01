@@ -10,5 +10,9 @@ The developers involved in this are:
 * [Greeley Dawson](https://github.com/4sight) - Semi-Pro(fessional) - [Personal Blog](http://newnowwow.com) - [Soundcloud] (http://soundcloud.com/4-sight)
 * [Katlyn Gabor](https://github.com/katlyngabor) - Genius? - [Website](http://katlynwhitt.wordpress.com) - [Twitter](http://twitter.com/katlynwhitt)
 * [Jonathan Dickerson](https://github.com/locomotes) - the Fixer - "I solve problems" - (http://locomot.es) - [Twitter](https://twitter.com/locomotes)
+<<<<<<< HEAD
 * [Terry Ross](https://github.com/TJRoss23) - Instructor - [Website](http://terryross.co) - [Twitter](http://twitter.com/tjross23)
 * [Thach Le](https://github.com/thachmle) - Ninja - [facebook](https://www.facebook.com/RightOnPhotographyy)
+=======
+* [Taylor Smith](https://github.com/tsmit182) - Code Smith - [Website](http://frozen-ridge-3470.herokuapp.com) - [Twitter](http://frozen-ridge-3470.herokuapp.com)
+>>>>>>> d9917fd751577233a4993d9e2a60c585261081c3
