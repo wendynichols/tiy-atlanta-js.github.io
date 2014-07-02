@@ -25,6 +25,7 @@ title: Resources
 * [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Web Animation](http://alistapart.com/article/web-animation-at-work)
+* [CSS Diner](http://flukeout.github.io/)
 
 ## Week 3
 
@@ -33,6 +34,9 @@ title: Resources
 * [Underscore](http://underscorejs.org/)
 * [Github API](https://developer.github.com/v3/)
 * [JavaScript without jQuery](http://youmightnotneedjquery.com/)
+* [JavaScript Global Variables](http://snook.ca/archives/javascript/global_variable)
+* [JavaScript Zen Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [World Cup API](http://www.kimonolabs.com/worldcup/explorer)
 
 ## Week 4
 
@@ -41,3 +45,7 @@ title: Resources
 * [Standard Media Queries](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [Understanding Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 * [Understanding NPM](http://scottksmith.com/blog/2014/06/25/8-npm-tips-for-better-node-development/)
+
+## Week 5
+
+* [Javascript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)
