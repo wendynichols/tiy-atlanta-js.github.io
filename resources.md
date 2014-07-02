@@ -49,3 +49,6 @@ title: Resources
 ## Week 5
 
 * [Javascript Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)
+* [Writing Testable JavaScript (Article)](http://alistapart.com/article/writing-testable-javascript)
+* [Writing Testable JavaScript (Video)](https://www.youtube.com/watch?v=OzjogCFO4Zo&list=UUyBAm31tEpZ17hka6ZvVqcg&index=2)
+* [JavaScript Koans - The Good Bits](https://github.com/mrdavidlaing/javascript-koans)
