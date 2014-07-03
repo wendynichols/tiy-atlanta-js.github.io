@@ -3,6 +3,20 @@ layout: page
 title: Resources
 ---
 
+## General Cheat Sheets
+* [HTML](http://overapi.com/html/)
+* [CSS](http://overapi.com/css/)
+* [JavaScript](http://overapi.com/javascript/)
+* [jQuery](http://overapi.com/jquery/)
+* [jQuery Pt2](http://oscarotero.com/jquery/)
+* [Git](http://overapi.com/git/)
+
+## Good Reads
+* [Adopting a new Programming Language](http://www.annema.me/adopting-a-new-programming-language)
+* [Revealing the Magic of JavaScript](http://www.sitepoint.com/revealing-magic-javascript)
+* [Learn Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Look at the Big Picture](http://alistapart.com/column/look-at-the-big-picture)
+
 ## Week 1
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
