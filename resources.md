@@ -3,6 +3,10 @@ layout: page
 title: Resources
 ---
 
+[The Code School Manifesto](http://masondesu.github.io/code-school-manifesto/)
+
+![Brent Rambo](http://f.cl.ly/items/1L3I1Z1Z083n2Q2w1o0u/post-19715-Brent-Rambo-gif-thumbs-up-imgu-L3yP.gif)
+
 ## General Cheat Sheets
 * [HTML](http://overapi.com/html/)
 * [CSS](http://overapi.com/css/)
@@ -11,11 +15,24 @@ title: Resources
 * [jQuery Pt2](http://oscarotero.com/jquery/)
 * [Git](http://overapi.com/git/)
 
+## Developers I Personally Follow
+* [John Resig](http://ejohn.org/category/blog/)
+* [David Walsh](http://davidwalsh.name/)
+* [Chris Coyier (CSS Tricks)](http://css-tricks.com/)
+* [Addy Osmani](http://addyosmani.com/blog/)
+* [Douglas Crockford (Book)](http://javascript.crockford.com/)
+
 ## Good Reads
 * [Adopting a new Programming Language](http://www.annema.me/adopting-a-new-programming-language)
 * [Revealing the Magic of JavaScript](http://www.sitepoint.com/revealing-magic-javascript)
 * [Learn Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Look at the Big Picture](http://alistapart.com/column/look-at-the-big-picture)
+
+## Other Great Blogs/Sites
+* [General Tech/Design News](http://thenews.im/)
+* [Daily JS](http://dailyjs.com/)
+* [Superhero JS](http://superherojs.com/)
+* [Hack Design](https://hackdesign.org/)
 
 ## Week 1
 
@@ -66,3 +83,14 @@ title: Resources
 * [Writing Testable JavaScript (Article)](http://alistapart.com/article/writing-testable-javascript)
 * [Writing Testable JavaScript (Video)](https://www.youtube.com/watch?v=OzjogCFO4Zo&list=UUyBAm31tEpZ17hka6ZvVqcg&index=2)
 * [JavaScript Koans - The Good Bits](https://github.com/mrdavidlaing/javascript-koans)
+
+## Week 6
+
+* [TDD in Node with Mocha](http://webapplog.com/test-driven-development-in-node-js-with-mocha/)
+* [Testing with Mocha](http://dailyjs.com/2011/12/08/mocha/)
+* [Front End JS Testing](http://blog.codeship.io/2014/01/22/testing-frontend-javascript-code-using-mocha-chai-and-sinon.html)
+* [Learn Mocha](https://github.com/nelsonic/learn-mocha)
+* [TDD vs BDD](http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/)
+* [Backbone Tutorials](http://backbonetutorials.com/)
+* [Intro to Backbone](http://clock.co.uk/blog/an-introduction-to-backbonejs)
+* [GUI Architectures](http://martinfowler.com/eaaDev/uiArchs.html)
