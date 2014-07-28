@@ -33,6 +33,7 @@ title: Resources
 * [Daily JS](http://dailyjs.com/)
 * [Superhero JS](http://superherojs.com/)
 * [Hack Design](https://hackdesign.org/)
+* [JSConf 2014 Videos](https://www.youtube.com/playlist?list=PL37ZVnwpeshHVd9Zf92zW4UJGWzPHU3o4)
 
 ## Week 1
 
@@ -94,3 +95,23 @@ title: Resources
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * [Intro to Backbone](http://clock.co.uk/blog/an-introduction-to-backbonejs)
 * [GUI Architectures](http://martinfowler.com/eaaDev/uiArchs.html)
+
+## Week 7
+* [Backbone Testing](https://gist.github.com/michaelcox/3800736)
+* [Complete Guide to Backbone](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
+* [Pamela Fox : Backbone 3 Ways](http://backbone-3ways.appspot.com/)
+* [Backbone ToDo App](http://documentcloud.github.io/backbone/docs/todos.html)
+
+## Week 8
+
+* [ToDo App with Backbone & Parse](https://parse.com/tutorials/todo-app-with-javascript)
+
+
+## Week 9
+
+* [Sam Kapila's RWD Checklist](http://samkap.github.io/projects/tiy-rwd/)
+* [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
+* [Complex Navigation Patterns](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
+* [Picturefill](http://scottjehl.github.io/picturefill/)
+* [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
+* [Adaptive Images](http://adaptive-images.com/)
