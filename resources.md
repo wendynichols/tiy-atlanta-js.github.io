@@ -115,3 +115,13 @@ title: Resources
 * [Picturefill](http://scottjehl.github.io/picturefill/)
 * [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Adaptive Images](http://adaptive-images.com/)
+* [Emmet - Toolkit for Developers](http://emmet.io/)
+* [Foundation CSS/JS Framework](http://foundation.zurb.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [What is JSONP](http://remysharp.com/2007/10/08/what-is-jsonp/) - Older Article, but still relevant
+* [Understanding CORS](https://spring.io/understanding/cors)
+* [Enable CORS](http://enable-cors.org/)
+* [DOM Storage](http://ejohn.org/blog/dom-storage/)
+* [HTML5 Storage](http://www.html5rocks.com/en/features/storage)
+* [CRUD JavaScript Cookies](https://gist.github.com/twhitacre/3f534cf2b1448d7a1323)
+* [CRUD JavaScript Cookies (jQuery Plugin)](https://github.com/carhartl/jquery-cookie)
