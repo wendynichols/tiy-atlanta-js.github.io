@@ -125,3 +125,13 @@ title: Resources
 * [HTML5 Storage](http://www.html5rocks.com/en/features/storage)
 * [CRUD JavaScript Cookies](https://gist.github.com/twhitacre/3f534cf2b1448d7a1323)
 * [CRUD JavaScript Cookies (jQuery Plugin)](https://github.com/carhartl/jquery-cookie)
+* [JavaScript Promise - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [RSVP Library](https://github.com/tildeio/rsvp.js/)
+* [Promises A+ Spec](http://promisesaplus.com/)
+* [Great Article on Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+
+
+## Week 10
+
+* [AngularUI](http://angular-ui.github.io/)
+* [A List of AngularJS Directives](http://angular-js.in/)
