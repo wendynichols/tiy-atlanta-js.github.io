@@ -135,3 +135,6 @@ title: Resources
 
 * [AngularUI](http://angular-ui.github.io/)
 * [A List of AngularJS Directives](http://angular-js.in/)
+* [AngularJS in 20ish Minutes](https://www.youtube.com/watch?v=tnXO-i7944M)
+* [AngularJS Training](https://egghead.io/)
+* [Opinionated AngularJS Styleguide](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
