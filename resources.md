@@ -143,6 +143,7 @@ title: Resources
 
 
 ## Some More Resources
+
 #### List of JavaScript Tools / jQuery Plugins
 * [JavaScript Projects](http://www.javascriptoo.com/)
 * [Database of JavaScript Resources](http://www.jsdb.io/)
