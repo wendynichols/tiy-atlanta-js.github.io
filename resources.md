@@ -3,10 +3,6 @@ layout: page
 title: Resources
 ---
 
-[The Code School Manifesto](http://masondesu.github.io/code-school-manifesto/)
-
-![Brent Rambo](http://f.cl.ly/items/1L3I1Z1Z083n2Q2w1o0u/post-19715-Brent-Rambo-gif-thumbs-up-imgu-L3yP.gif)
-
 ## General Cheat Sheets
 * [HTML](http://overapi.com/html/)
 * [CSS](http://overapi.com/css/)
