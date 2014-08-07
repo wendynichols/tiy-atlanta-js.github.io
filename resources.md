@@ -138,3 +138,39 @@ title: Resources
 * [AngularJS in 20ish Minutes](https://www.youtube.com/watch?v=tnXO-i7944M)
 * [AngularJS Training](https://egghead.io/)
 * [Opinionated AngularJS Styleguide](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
+* [JavaScript Framework Showdown](http://codecondo.com/javascript-framework-showdown-use/)
+
+
+
+## Some More Resources
+#### List of JavaScript Tools / jQuery Plugins
+* [JavaScript Projects](http://www.javascriptoo.com/)
+* [Database of JavaScript Resources](http://www.jsdb.io/)
+* [List of jQuery Plugins](http://www.unheap.com/)
+* [jQuery Plugin Repository](http://plugins.jquery.com/)
+
+#### UI Tools
+* [jQuery UI](http://jqueryui.com/)
+* [jQuery Mobile](http://jquerymobile.com/)
+* [Wijmo](http://wijmo.com/)
+
+#### Design Resources & Inspirations
+* [Envato Marketplace](http://themeforest.net/)
+* [Creative Market](https://creativemarket.com/)
+* [The Noun Project](http://thenounproject.com/)
+* [Generate Test Data](http://www.databasetestdata.com/)
+* [Faker Library](https://github.com/marak/Faker.js/)
+* [Wes Anderson Color Palette](http://wesandersonpalettes.tumblr.com/)
+* [Subtle Background Patterns](http://subtlepatterns.com/)
+* [Dribbble](https://dribbble.com/)
+
+#### Show Me The Money
+* [Shopify](http://www.shopify.com/)
+* [Stripe Payment API](https://stripe.com/)
+
+#### Great Mac Apps
+* [Alfred](http://www.alfredapp.com/)
+
+#### Hosting
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Saddington on Hosting](http://john.do/blog-hosting/)
