@@ -3,13 +3,13 @@ layout: page
 title: Schedule
 ---
 
-This course runs from June 2nd to August 22nd, 2014.
+This course runs from September 22nd to December 12th, 2014.
 
 ### Weekly Schedule
 
 __Monday - Thursday__
 
-9am - 12pm will be lecture time. We will have a break halfway through. Depending on the topic covered we may end early.
+9am - 12pm will be lecture time. We will have a break halfway through.
 
 1pm - 5pm will be lab time.
 
@@ -26,4 +26,5 @@ From time to time your instructor and/or T.A will have a meeting and will be una
 There is also a chance we will be available via HipChat or [Screenhero](http://screenhero.com/) in the evenings or weekends. If we are and can help we will do so, but don't plan on this. Make sure to ask any questions you have before you leave for the day.
 
 ### Holidays
-July 4th falls on a Friday. We will have no class on July 4th. In addition, July 3rd will be a lab day.
+
+Coming soon...

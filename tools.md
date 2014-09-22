@@ -18,7 +18,7 @@ There are a few good browsers out there, but in this class we'll be focusing on 
 * Go to the Apple Developer Downloads site.
 * Sign in with you Apple ID.
 * Search for "Command Line Tools (OS X Mavericks) for Xcode - April 2014."
-* Download the ".dmg" file for that package to your Desktop. 
+* Download the ".dmg" file for that package to your Desktop.
 * Once downloaded, double-click on the file to unpack it.
 * Double-click on the file called "Command Line Tools (OS X 10.9).pkg." and complete the guided installation instructions.
 
@@ -43,7 +43,7 @@ This makes your terminal (iTerm 2) come alive.
 A package manager for installing developmental tools onto your Apple computer.
 
 * Open up Terminal.app (Applications > Utilities > Terminal)
-* Type the following command: 
+* Type the following command:
 `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
 * Follow the instructions on-screen.
 * When finished, run `brew doctor`.
@@ -68,18 +68,13 @@ The web-bases service we will be using to store all of your work.
 
 You'll need an SSH key when using Github. SSH keys are a way to identify trusted computers, without involving passwords. Walk through the steps in this [tutorial](https://help.github.com/articles/generating-ssh-keys) to create your SSH key and add it to your Github account.
 
-#### [Sublime Text 3](https://www.sublimetext.com/3)
+#### [Atom](http://www.atom.io)
 
 * Download & Install
-* Install [Package Manager](https://sublime.wbond.net/) - Follow the directions
-
-!! NOTE !! - This software is free to use while in class but after you finish we strongly recommend you purchase a license. After all if you built a piece of software, wouldn't you want to be paid for it?
-
-You can also check out [Atom](atom.io), which is a very similar and completely free text editor.
 
 #### [Node](http://nodejs.org/) & [NPM](https://www.npmjs.org/)
 
-Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. 
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
 
 * Open up terminal
 * Run `brew install node`
