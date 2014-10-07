@@ -40,7 +40,3 @@ Generally 1pm - 4pm your instructor will be available. From 4pm on, that will be
 Keep in mind that often the best way to learn is to work through the situation by yourself, but we will be available to assist. Use your rubber duck!
 
 There is also a chance we will be available via HipChat or [Screenhero](http://screenhero.com/) in the evenings or weekends. If we are and can help we will do so, but don't plan on this. Make sure to ask any questions you have before you leave for the day.
-
-### Holidays
-
-Coming soon...
